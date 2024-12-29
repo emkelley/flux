@@ -1,0 +1,16 @@
+.flux-status-text {
+  text-align: center;
+  padding-left: -0.5rem;
+}
+
+.flux-status-off {
+  background-color: #e81123;
+}
+
+.flux-status-on {
+  background-color: #30d911;
+}
+
+.font-merriweather {
+  font-family: "Merriweather", Georgia, serif;
+}

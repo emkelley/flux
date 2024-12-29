@@ -1,0 +1,11 @@
+{
+	"Name": "Flux",
+	"ID": "Flux",
+	"Author": "0NEGUY",
+	"Description": "The all-in-one cheat mod for Cookie Clicker",
+	"ModVersion": 1.0,
+	"GameVersion": 2.048,
+	"Date": "29/12/2024",
+	"Dependencies": [],
+	"Disabled": 0
+}
